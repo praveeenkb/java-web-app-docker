@@ -41,14 +41,14 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome Praveen Kumar.</h2>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226</h3>
+			<h3>Contact @ +91-8754746176</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Green Technologies 2019</p>
+		<p>&copy; Green Technologies 2022</p>
 	</footer>
 </div>
 
